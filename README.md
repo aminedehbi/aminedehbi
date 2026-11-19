@@ -3,7 +3,7 @@
 ### Network & Cybersecurity Engineer | Network Infrastructure | Cloud Computing
 
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Med Amine Dehbi - Network and Cybersecurity"/>
+  <img src="assets/banner github.png" width="100%" alt="Med Amine Dehbi - Network and Cybersecurity"/>
 </p>
 
 <p align="center">
